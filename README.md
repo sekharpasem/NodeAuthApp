@@ -10,10 +10,10 @@ Version
 
 Usage
 
-npm install
-npm start
+npm install  <br>
+npm start <br>
 ##Endpoints
 
-POST /users/register
-POST /users/authenticate   // Gives back a token
-GET /users/profile         // Needs json web token to authorize
+POST /users/register<br>
+POST /users/authenticate   // Gives back a token<br>
+GET /users/profile         // Needs json web token to authorize<br>
